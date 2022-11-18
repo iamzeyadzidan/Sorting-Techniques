@@ -4,5 +4,5 @@
 
 # Implemented Sorting Techniques
 So far, I have implemented:
-  - Quicksort                       O(nlgn)
-  - Randomized Quicksort            O(nlgn)
+  - Quicksort --> O(nlgn)
+  - Randomized Quicksort --> O(nlgn)
